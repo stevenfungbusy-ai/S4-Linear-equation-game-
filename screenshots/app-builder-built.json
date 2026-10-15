@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "刃式",
+      "hasCanvas": false,
+      "bodyTextLen": 324,
+      "bodyTextHash": "c2178d1e70be69253c6875760a786a4453364368fdc4dada4a10a7e24e531736",
+      "bodyTextPrefix": "斬 直線方程 · 第一人稱 刃式 出劍的軌跡，就是你寫下的直線。 y = mx + c 你是持劍的人。眼前的氣幕是坐標平面，向右",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "刃式",
+      "hasCanvas": false,
+      "bodyTextLen": 324,
+      "bodyTextHash": "c2178d1e70be69253c6875760a786a4453364368fdc4dada4a10a7e24e531736",
+      "bodyTextPrefix": "斬 直線方程 · 第一人稱 刃式 出劍的軌跡，就是你寫下的直線。 y = mx + c 你是持劍的人。眼前的氣幕是坐標平面，向右",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
